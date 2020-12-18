@@ -6,7 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hola!");
+		System.out.println("Hola it is!");
 		System.out.println("Welcome to consumer portal!");
 		System.out.println("Please follow the given steps");
 		System.out.println("Enter Details");
