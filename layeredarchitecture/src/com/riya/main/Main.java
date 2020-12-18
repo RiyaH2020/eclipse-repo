@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
+		System.out.println("Welcome to consumer portal!");
 		System.out.println("Enter Details");
 		Scanner sc=new Scanner(System.in);
 		int id=sc.nextInt();
